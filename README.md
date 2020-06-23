@@ -1,6 +1,6 @@
 # Machine Translation: English to French
 
-[](translate.jpg)
+![GitHub Logo](translate.jpg)
 
 This is the project I have built in the first course of the **NLP Nanodegree**. The course name is **Computing with Natural Language**.
 
