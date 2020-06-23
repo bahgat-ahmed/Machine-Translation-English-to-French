@@ -1,8 +1,8 @@
 # Machine Translation: English to French
 
-![GitHub Logo](translate.jpg)
-
 This is the project I have built in the first course of the **NLP Nanodegree**. The course name is **Computing with Natural Language**.
+
+![](translate.jpg)
 
 # Introduction
 In this notebook, I have build a deep neural network that functions as part of an end-to-end machine translation pipeline. The completed pipeline has accepted English text as input and returned the French translation.
