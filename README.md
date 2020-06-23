@@ -2,6 +2,8 @@
 
 This is the project I have built in the first course of the **NLP Nanodegree**. The course name is **Computing with Natural Language**.
 
+A lot of this readme is taken from the project description made by Udacity and I have just made small modifications to their description and put it in this readme.
+
 ![](translate.jpg)
 
 # Introduction
